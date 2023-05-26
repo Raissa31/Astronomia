@@ -1,6 +1,8 @@
 :root {
     --cor-de-fundo: #05000e;
-    }body {
+    }
+    body {
         background-color: var(--cor-de-fundo);
-        }
+    color: aliceblue;    
+    }
         
