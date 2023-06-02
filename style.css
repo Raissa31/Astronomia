@@ -1,8 +1,14 @@
 :root {
-    --cor-de-fundo: #ab7afa;
+    --cor-de-fundo: #000000;
     }
     body {
         background-color: var(--cor-de-fundo);
       
+    }
+    .img1{
+        Width: 20%;
+        display: flex;
+
+        font color:white
     }
         
