@@ -1,5 +1,5 @@
 :root {
-    --cor-de-fundo: #000000;
+    --cor-de-fundo: #7239ce;
     }
     body {
         background-color: var(--cor-de-fundo);
@@ -9,6 +9,6 @@
         Width: 40%;
         display: flex;
 
-        font color:white
+       
     }
         
