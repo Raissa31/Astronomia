@@ -1,3 +1,4 @@
+@import url("style.css/header.css");
 :root {
     --cor-de-fundo: #ffffff;
     }
@@ -8,7 +9,12 @@
     .img1{
         Width: 40%;
         display: flex;
-
+.cabecalho___menu-hamburguer{
+    width: 24px;
+    height: 24px;
+}   background-image: url(". . /img/Menu.svg");
+    display: inline-block;
+}
        
     }
         
