@@ -6,9 +6,12 @@
         background-color: var(--cor-de-fundo);
       
     }
-    .img1{
-        Width: 40%;
+.img1{
+        width: 40%;
         display: flex;
+        margin: 0 auto;
+
+}
 .cabecalho___menu-hamburguer{
     width: 24px;
     height: 24px;
@@ -20,5 +23,6 @@
     display: flex;
     justify-content: center;
 }
+
 
         
